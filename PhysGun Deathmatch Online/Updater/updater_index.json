@@ -1,7 +1,7 @@
 {
   "Entries": [
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher.exe",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:08Z",
@@ -9,7 +9,7 @@
       "Hash": "9uq+fHNqxGU9Vf0cO1D2VIaYh0I"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "UnityCrashHandler32.exe",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:34Z",
@@ -17,7 +17,7 @@
       "Hash": "eYmfABGE+/tRYA7Y7Lorl8hWZfs"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "UnityPlayer.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:56:30Z",
@@ -25,7 +25,7 @@
       "Hash": "xOJL2JTgM0QmttGRI+zj7kcX798"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -33,7 +33,7 @@
       "Hash": "EsRK6uOLvjWTw8KjHlJRuDn3RpA"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -41,7 +41,7 @@
       "Hash": "Xrff5kAipaSnbw/m3hgOqXCvF6s"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/browscap.ini",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -49,7 +49,7 @@
       "Hash": "LVRU4WHeiltlkQ8nvXDZ0K2PpHY"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/config",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -57,7 +57,7 @@
       "Hash": "xEg15Igdlal7WXvr/13roCM6WIc"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -65,7 +65,7 @@
       "Hash": "s+S1CKqzzyAcBoknE7Q92wxDt64"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/2.0/machine.config",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -73,7 +73,7 @@
       "Hash": "2NtxEfzloI2LfJpuHgrS+/NM/hI"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/2.0/settings.map",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -81,7 +81,7 @@
       "Hash": "3Svi28zTRzZxkwGu6SQp1CWOpaA"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/2.0/web.config",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -89,7 +89,7 @@
       "Hash": "pNfgVRb2PWq2cyeymdT7KFLLhAs"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -97,7 +97,7 @@
       "Hash": "GH3/UW+USOY+pQeBkLM0eSLEs+s"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -105,7 +105,7 @@
       "Hash": "s+S1CKqzzyAcBoknE7Q92wxDt64"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/4.0/machine.config",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -113,7 +113,7 @@
       "Hash": "kkW+/NEWRY6WGWlPGnhcUPphtY4"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/4.0/settings.map",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -121,7 +121,7 @@
       "Hash": "jhfirsQjqOb7Q+jL5iFQQCF7uKM"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/4.0/web.config",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -129,7 +129,7 @@
       "Hash": "fXdtcwy9JTVkcT82Vz3YNmeCeIw"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -137,7 +137,7 @@
       "Hash": "GH3/UW+USOY+pQeBkLM0eSLEs+s"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -145,7 +145,7 @@
       "Hash": "s+S1CKqzzyAcBoknE7Q92wxDt64"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/4.5/machine.config",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -153,7 +153,7 @@
       "Hash": "HhGPS1wcansYWOP8yxsdEJVWGXY"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/4.5/settings.map",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -161,7 +161,7 @@
       "Hash": "jhfirsQjqOb7Q+jL5iFQQCF7uKM"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/4.5/web.config",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -169,7 +169,7 @@
       "Hash": "6j4q1tcdSDxUsShS3L3NC6pWmYg"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -177,7 +177,7 @@
       "Hash": "GH3/UW+USOY+pQeBkLM0eSLEs+s"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "MonoBleedingEdge/etc/mono/mconfig/config.xml",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:32Z",
@@ -185,103 +185,103 @@
       "Hash": "k2Ug1btcAKGYXXpMTw73Y6kDGGI"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/app.info",
       "Attributes": 8224,
-      "LastWriting": "2021-08-05T09:25:01.8926334Z",
+      "LastWriting": "2021-08-05T09:52:14.496338Z",
       "Size": 31,
       "Hash": "flp0hW/NMNkoXfB/x6VfklbyuOY"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/boot.config",
       "Attributes": 8224,
-      "LastWriting": "2021-08-05T09:25:01.7568511Z",
+      "LastWriting": "2021-08-05T09:52:14.3665459Z",
       "Size": 113,
       "Hash": "6/wI+EhY1qGKibEsdvbM+/Wj0Rk"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/globalgamemanagers",
       "Attributes": 8224,
-      "LastWriting": "2021-08-05T09:25:01.0385015Z",
+      "LastWriting": "2021-08-05T09:52:13.7495343Z",
       "Size": 102012,
-      "Hash": "/4KSP8NHiMb3RveYq/lCQEq5TGg"
+      "Hash": "ZGYmGe10XR0O+hUQJvbHfAmfOuw"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/globalgamemanagers.assets",
       "Attributes": 8224,
-      "LastWriting": "2021-08-05T09:25:01.2411768Z",
+      "LastWriting": "2021-08-05T09:52:14.0051249Z",
       "Size": 72792,
       "Hash": "OKOE5V4NkqGvqbuncZCtDstXsx4"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/level0",
       "Attributes": 8224,
-      "LastWriting": "2021-08-05T09:24:56.8911438Z",
+      "LastWriting": "2021-08-05T09:52:11.3433885Z",
       "Size": 17176,
-      "Hash": "fwX3xkSqfqo8lmyMRN8lXPbVPyE"
+      "Hash": "cty2fuZ77PA0IvnO/mK/3+PcH84"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/resources.assets",
       "Attributes": 8224,
-      "LastWriting": "2021-08-05T09:25:01.5891195Z",
+      "LastWriting": "2021-08-05T09:52:14.2157875Z",
       "Size": 5342524,
       "Hash": "OzsnMarVTWZ81L6icXWnpqPJS/A"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/resources.assets.resS",
       "Attributes": 8224,
-      "LastWriting": "2021-08-05T09:25:01.5831291Z",
+      "LastWriting": "2021-08-05T09:52:14.2107956Z",
       "Size": 13350748,
       "Hash": "ZaChYBOH4/3go2t9ogQVf5p+zI4"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/resources.resource",
       "Attributes": 8224,
-      "LastWriting": "2021-08-05T09:25:01.5666554Z",
+      "LastWriting": "2021-08-05T09:52:14.1973172Z",
       "Size": 32384,
       "Hash": "DXQETQE/eEIhTewusRpSPcsodYk"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/sharedassets0.assets",
       "Attributes": 8224,
-      "LastWriting": "2021-08-05T09:25:01.6420347Z",
+      "LastWriting": "2021-08-05T09:52:14.2637107Z",
       "Size": 40280,
       "Hash": "ywKjVwf56b0rKR6hhj7aPcDnU94"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/sharedassets0.assets.resS",
       "Attributes": 8224,
-      "LastWriting": "2021-08-05T09:25:01.6410364Z",
+      "LastWriting": "2021-08-05T09:52:14.2632115Z",
       "Size": 13550424,
       "Hash": "YmiA41xSua5NprPLvlRVhzwuNOU"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/Assembly-CSharp-firstpass.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-08-05T09:24:54.8564027Z",
+      "LastWriting": "2021-08-05T09:52:09.223284Z",
       "Size": 3584,
-      "Hash": "Wik2yBUyoszq7t//80Jt1QCDf/Y"
+      "Hash": "UTh7zLt4dH5RE3oglHs2FNTHXZw"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/Assembly-CSharp.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-08-05T09:24:55.7270083Z",
+      "LastWriting": "2021-08-05T09:52:10.2191884Z",
       "Size": 347648,
-      "Hash": "dV3rRQw5f7tYWUQX9Ho7rxSo5dI"
+      "Hash": "b2SdszKCi+ezu9bSdB9/yT1mUhU"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/ICSharpCode.SharpZipLib.dll",
       "Attributes": 8224,
       "LastWriting": "2021-01-26T16:14:41Z",
@@ -289,7 +289,7 @@
       "Hash": "/hIbV26s5R5reLt4bLZQDccCBnI"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/MHLab.Patch.Core.Admin.dll",
       "Attributes": 8224,
       "LastWriting": "2021-01-26T16:14:24Z",
@@ -297,7 +297,7 @@
       "Hash": "Dj07JriizB6Z4gnIkVzmG50Ycyg"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/MHLab.Patch.Core.Client.dll",
       "Attributes": 8224,
       "LastWriting": "2021-01-26T16:14:41Z",
@@ -305,7 +305,7 @@
       "Hash": "38KBmS1gquVnTItRBkxKEqkWNBA"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/MHLab.Patch.Core.dll",
       "Attributes": 8224,
       "LastWriting": "2021-01-26T16:14:25Z",
@@ -313,7 +313,7 @@
       "Hash": "5lzZsvJGXsaOdmbpe6s6Kanxy8k"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/Mono.Security.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -321,7 +321,7 @@
       "Hash": "6UAFjP9dxYTBHcbksRHoWj9soG4"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/mscorlib.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -329,7 +329,7 @@
       "Hash": "g/3Eyh5pM9RxTFCy8OXW1lo2Jt8"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/netstandard.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -337,7 +337,7 @@
       "Hash": "fIAi//MKRboElA67fvkkqRRgVuM"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/Newtonsoft.Json.dll",
       "Attributes": 8224,
       "LastWriting": "2021-01-26T16:14:24Z",
@@ -345,7 +345,7 @@
       "Hash": "34P8s2OVlq1C1b6DFO+dZyB5GYs"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/Photon3Unity3D.dll",
       "Attributes": 8224,
       "LastWriting": "2020-04-30T09:40:50Z",
@@ -353,7 +353,7 @@
       "Hash": "C4Yvp51xiBvvFshhjoG03HQzB0M"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/Serilog.dll",
       "Attributes": 8224,
       "LastWriting": "2021-01-26T16:14:27Z",
@@ -361,7 +361,7 @@
       "Hash": "xEr4bDjiKNlFnmiBRH+QVeG8Sm8"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/Serilog.Sinks.File.dll",
       "Attributes": 8224,
       "LastWriting": "2021-01-26T16:14:11Z",
@@ -369,7 +369,7 @@
       "Hash": "T4sHu9j+KqzLeG/iZE3ZapBpTug"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Collections.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -377,7 +377,7 @@
       "Hash": "rZAqxFblE9xJe3XM10TFtlY7J5A"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.ComponentModel.Composition.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -385,7 +385,7 @@
       "Hash": "SCDsSnVY4Yqh6hUdIs8ZILgrI6c"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Configuration.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -393,7 +393,7 @@
       "Hash": "aGSdhoGvdVhBPC2OLxgVfU1HI/o"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Core.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -401,7 +401,7 @@
       "Hash": "ysgRMu+KdswL7pnfpf/CCWwCuEg"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Data.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -409,7 +409,7 @@
       "Hash": "WZa1x4JjGi5/J29fZggJxCGBCRY"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Diagnostics.StackTrace.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -417,7 +417,7 @@
       "Hash": "bFzumljc9JP5TfJ7feF/Gb3wIeM"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -425,7 +425,7 @@
       "Hash": "v46XgqiPfhdR0duHGeOy0NPn+/w"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Drawing.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -433,7 +433,7 @@
       "Hash": "mpWFXd8BZjjnLDu6h0mCOWn82ec"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.EnterpriseServices.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -441,7 +441,7 @@
       "Hash": "ul37s9kQEQYNhoh2exy6FmVGIyk"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Globalization.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -449,7 +449,7 @@
       "Hash": "FIcY44whPeQN7jXhTwqwOAYD9do"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Globalization.Extensions.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -457,7 +457,7 @@
       "Hash": "RL/x8ksjX3QvhOTxUukS+gRS7J8"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.IO.Compression.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -465,7 +465,7 @@
       "Hash": "w647zVyNmvd8xXnh0zX4z20qJBU"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.IO.Compression.FileSystem.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -473,7 +473,7 @@
       "Hash": "uAl5lJuBfSav4KiosDWPcE7OgrI"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.IO.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -481,7 +481,7 @@
       "Hash": "w3oZqyrcI/Q5WtXqwqGM9aX93ss"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.IO.FileSystem.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -489,7 +489,7 @@
       "Hash": "8e8Ty10jKFY4HRP2uOLpXb39pr4"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.IO.FileSystem.Primitives.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -497,7 +497,7 @@
       "Hash": "dGs5pwo7hb9x9XMKbUrwr1PHG7c"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Linq.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -505,7 +505,7 @@
       "Hash": "fOOc0z949HT40uwPEFj80aa53Zg"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Net.Http.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -513,7 +513,7 @@
       "Hash": "lXQBIQ08nhhvFx+S3ssatMhY8Lc"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Numerics.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -521,7 +521,7 @@
       "Hash": "4nHOnv5OFAqKVIkgKZK/gPv0WYY"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Runtime.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -529,7 +529,7 @@
       "Hash": "GcDI1G7JMReQ/preT9hV23f2YJ0"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Runtime.Extensions.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -537,7 +537,7 @@
       "Hash": "6Vu52HnCK5DS31MSQ1aVWhSlfrw"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Runtime.Serialization.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -545,7 +545,7 @@
       "Hash": "PjiaN5ZWtXhrYByOzQpJ8Rmlyso"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Runtime.Serialization.Xml.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -553,7 +553,7 @@
       "Hash": "0srTtegP4BBWYTsNlCwXfMbQzKE"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.ServiceModel.Internals.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -561,7 +561,7 @@
       "Hash": "nv/tWv+kx1ZtRdn8QDE9E2msOeA"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Text.Encoding.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -569,7 +569,7 @@
       "Hash": "fAZdT1nGMvltlI20wcZWAIJnRts"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Text.Encoding.Extensions.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -577,7 +577,7 @@
       "Hash": "J62P5HyNTQJ1DYYDo+GhjQ4v7cI"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Text.RegularExpressions.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -585,7 +585,7 @@
       "Hash": "w7X6yHU5cuaKwyuFzETKi1iWbDA"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Threading.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -593,7 +593,7 @@
       "Hash": "/9s6bx8kULltAQLCwI+++GQYp4Y"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Threading.Timer.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -601,7 +601,7 @@
       "Hash": "sS2p37wTX93Erpmu6M1iyOCW2aM"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Transactions.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -609,7 +609,7 @@
       "Hash": "zhCHMvnuRMGOZDTIhrzXXhEum70"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Xml.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -617,7 +617,7 @@
       "Hash": "5iVBjwZTpyBw4GqkZG/9z+Beax4"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Xml.Linq.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -625,7 +625,7 @@
       "Hash": "J9mvsx21T69xo6eAJfcD5hBDubg"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/System.Xml.XPath.XDocument.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:30:36Z",
@@ -633,23 +633,23 @@
       "Hash": "0wN2Wbb5ERsTKBQWJfmarwrzX5Y"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/Unity.TextMeshPro.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-08-05T09:24:54.3382326Z",
+      "LastWriting": "2021-08-05T09:52:08.5244027Z",
       "Size": 368128,
-      "Hash": "mdA0hQrhflMC4dojXeOwB2lUHig"
+      "Hash": "9asMnIozzB1hb+AHSAyYI3uH5h4"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/Unity.Timeline.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-08-05T09:24:54.2129337Z",
+      "LastWriting": "2021-08-05T09:52:08.4450299Z",
       "Size": 108544,
-      "Hash": "DOLbPw6Hs6N3q1Dm3iOfyhtSZJ4"
+      "Hash": "uWHfXUz7wnOI0vPGXKWsq8/dkSY"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.AccessibilityModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -657,7 +657,7 @@
       "Hash": "6k2FItnI6uEg6e5mjJXlE9UZUBY"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.AIModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -665,7 +665,7 @@
       "Hash": "6H4BpjaXyoAVd33QmB75CKBd61A"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.AndroidJNIModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -673,7 +673,7 @@
       "Hash": "6eB+sKOp/zEpyMHm358a1OTYwGk"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.AnimationModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -681,7 +681,7 @@
       "Hash": "QFasiFdY3mOzpY95IHRuVEbQWos"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.ARModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:32Z",
@@ -689,7 +689,7 @@
       "Hash": "/1bz2E8D0fzinc28GGPDa81Eg+c"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.AssetBundleModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:16Z",
@@ -697,7 +697,7 @@
       "Hash": "OJoAVdQMLDf/9CaqMZWwSRDjWN8"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.AudioModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -705,7 +705,7 @@
       "Hash": "/c0JhBIJSk7jCWnkRHnDX7HWVqU"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.ClothModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:22Z",
@@ -713,7 +713,7 @@
       "Hash": "O7+2VM9rQB+8BF43apAQ0fMf5jM"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.ClusterInputModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -721,7 +721,7 @@
       "Hash": "BLPHIHqIU8AHFbZCm2ru5kDcnFY"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.ClusterRendererModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:16Z",
@@ -729,7 +729,7 @@
       "Hash": "Y1ujYqyCn3rzNUEhn63O8ibomds"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.CoreModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:08Z",
@@ -737,7 +737,7 @@
       "Hash": "Zs16akJgRr8feroq9piSwp7RIx4"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.CrashReportingModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:38Z",
@@ -745,7 +745,7 @@
       "Hash": "eVYYdGFGka86Zax1B4Q65yfRges"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.DirectorModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:20Z",
@@ -753,7 +753,7 @@
       "Hash": "Ju7d0OmVeBgUPBdAHHLXotSiG4w"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:42Z",
@@ -761,7 +761,7 @@
       "Hash": "EFuDiMz8yiAGzWecbMsIrL1iJPI"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.DSPGraphModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:16Z",
@@ -769,7 +769,7 @@
       "Hash": "U7p82ouWULnScS1ryaRJNWsuEZY"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.GameCenterModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:16Z",
@@ -777,7 +777,7 @@
       "Hash": "hGNE1qa+1iL3MLFQegk6qQ0orbY"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.GridModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -785,7 +785,7 @@
       "Hash": "jQ/uIt08pESj1cJVp1B+XOBvZ+4"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.HotReloadModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -793,7 +793,7 @@
       "Hash": "c4YG4nXAS56+03gH3UIVr2Aov4E"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.ImageConversionModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -801,7 +801,7 @@
       "Hash": "PBfSYq483fhu1iWNAjjdpZJGmQ0"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.IMGUIModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:22Z",
@@ -809,7 +809,7 @@
       "Hash": "GTK2T+wCDALqIJoTphfu01XhJyc"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.InputLegacyModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -817,7 +817,7 @@
       "Hash": "pN2O9E8sM8uAJD+XD8ef5fehTzs"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.InputModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:18Z",
@@ -825,7 +825,7 @@
       "Hash": "iJZ69zCYDkiuKWQsSHzIRy0mQCc"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.JSONSerializeModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -833,7 +833,7 @@
       "Hash": "+qOyp3tH1pqYFIV9DRvgeknXGnY"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.LocalizationModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -841,7 +841,7 @@
       "Hash": "Nmkabt/XN8ceKtNTFjo9vxC56hY"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.ParticleSystemModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -849,7 +849,7 @@
       "Hash": "05f3MbLcHD2YOHwdAXMFpv5sl8U"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:38Z",
@@ -857,7 +857,7 @@
       "Hash": "wgmjtt3kJzd23qLwNIRSOt1fnsA"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.Physics2DModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -865,7 +865,7 @@
       "Hash": "Sjq1p3Aqpn/RsOmcGpRYv1eDAQw"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.PhysicsModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -873,7 +873,7 @@
       "Hash": "6faRtU9XxxVhathl/8wEvONQTFg"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.ProfilerModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -881,7 +881,7 @@
       "Hash": "ZexBim13HpEYvv6pQGqxJ7XFdw0"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:16Z",
@@ -889,7 +889,7 @@
       "Hash": "iz7r6UcIPxp9huEUVx/1i7sgTNc"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.SharedInternalsModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:38Z",
@@ -897,7 +897,7 @@
       "Hash": "9pBQAwzAgWQvyp99HO8NuXbhrig"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.SpriteMaskModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -905,7 +905,7 @@
       "Hash": "HEbNV9RrfpfmXaOGRMicyVVqEIs"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.SpriteShapeModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -913,7 +913,7 @@
       "Hash": "rqK0VQ/99+aVRCZ8HvSrD4OXMr8"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.StreamingModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -921,7 +921,7 @@
       "Hash": "bKw+RiLMMfurCNs7KSvhaZnYb9Y"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.SubstanceModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -929,7 +929,7 @@
       "Hash": "E7NDvC/iUeaBZdmhMEpWmmVxOtA"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.SubsystemsModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:18Z",
@@ -937,7 +937,7 @@
       "Hash": "Rak3KDCsKaTVhIlI4qLx7pq52f4"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.TerrainModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:14Z",
@@ -945,7 +945,7 @@
       "Hash": "zfuBJwcaNpEaa8ZXvq9AhPPcxss"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:24Z",
@@ -953,7 +953,7 @@
       "Hash": "oXI6RSuLqZX2+be2SIl8CYAAsMQ"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.TextCoreModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:24Z",
@@ -961,7 +961,7 @@
       "Hash": "uQLY2422S+NsT835OF7N9ps/KvA"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.TextRenderingModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:14Z",
@@ -969,7 +969,7 @@
       "Hash": "F0ljH8C2mOlUWPXGjo7aG/FInyY"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.TilemapModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:22Z",
@@ -977,7 +977,7 @@
       "Hash": "SznUfZjud56HJJd+XkEQspu54GE"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.TLSModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:14Z",
@@ -985,15 +985,15 @@
       "Hash": "q2Zn6puy89/AFdqGH41JENfJfSQ"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.UI.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-08-05T09:24:53.2349997Z",
+      "LastWriting": "2021-08-05T09:52:07.4631031Z",
       "Size": 224768,
-      "Hash": "ppepep8R/SKli+GLtz7H6kfP+lA"
+      "Hash": "wYSe1HsuBY2vUpwGQU8mWX0hr/U"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.UIElementsModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:36Z",
@@ -1001,7 +1001,7 @@
       "Hash": "WcLPIDcY0zXajEgCa9dwzKUh5PQ"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.UIModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:20Z",
@@ -1009,7 +1009,7 @@
       "Hash": "9imW7RXEzHZ2NFdZ/IwryLF3zlY"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.UmbraModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:12Z",
@@ -1017,7 +1017,7 @@
       "Hash": "+CYKtOUFglfPDLhnm4JhPDWzpVc"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.UNETModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:32Z",
@@ -1025,7 +1025,7 @@
       "Hash": "7Eh1nuEVIgAPTNGexRd0jV1g4Us"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:34Z",
@@ -1033,7 +1033,7 @@
       "Hash": "ulM2hgufIrRj2uzx+BET3/Fve4E"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.UnityConnectModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:14Z",
@@ -1041,7 +1041,7 @@
       "Hash": "LslDCG4C6X3uSen9oZ0RakMnMSQ"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:18Z",
@@ -1049,7 +1049,7 @@
       "Hash": "Huig1kVGWTaD6LeD0l0UpOUrSWI"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:32Z",
@@ -1057,7 +1057,7 @@
       "Hash": "0SzBvteBKOk+YZGCoyCcbemfzfg"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:32Z",
@@ -1065,7 +1065,7 @@
       "Hash": "0VkWoBVGp4LBfO0OZ5O+AeQR0tY"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:20Z",
@@ -1073,7 +1073,7 @@
       "Hash": "66tVS6D0eK0UjAccOAUIAiPCcTs"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:32Z",
@@ -1081,7 +1081,7 @@
       "Hash": "4vsM/b45taW5/KXX62yLmV14lNw"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:38Z",
@@ -1089,7 +1089,7 @@
       "Hash": "p0wZ+RDPhhHws9kb4iHHD0hY0KE"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.VehiclesModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:20Z",
@@ -1097,7 +1097,7 @@
       "Hash": "uwS4tfTa5XeZM4XT4cwudB5v9G8"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.VFXModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:14Z",
@@ -1105,7 +1105,7 @@
       "Hash": "i9xItkX/fN1ezD8qGf4mHqx/rEQ"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.VideoModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:34Z",
@@ -1113,7 +1113,7 @@
       "Hash": "rpQ4ApV5iNfU5rftrHP0Tg6SMmo"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.VRModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:38Z",
@@ -1121,7 +1121,7 @@
       "Hash": "rZZRihSWKBEGx4S39reJet5fnl0"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.WindModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:14Z",
@@ -1129,7 +1129,7 @@
       "Hash": "6qH4am+2N5UDnmn95okQIux2XoY"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Managed/UnityEngine.XRModule.dll",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:55:32Z",
@@ -1137,7 +1137,7 @@
       "Hash": "IeKw7aOzTpqPkzMGPQEhtLASlyU"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Resources/unity default resources",
       "Attributes": 8224,
       "LastWriting": "2020-08-18T02:50:34Z",
@@ -1145,10 +1145,10 @@
       "Hash": "HPYldk3sjSh97Oxf7Dbddy/8MiI"
     },
     {
-      "Operation": 4,
+      "Operation": 0,
       "RelativePath": "Phys+Gun Launcher_Data/Resources/unity_builtin_extra",
       "Attributes": 8224,
-      "LastWriting": "2021-08-05T09:25:01.7538557Z",
+      "LastWriting": "2021-08-05T09:52:14.3655475Z",
       "Size": 404448,
       "Hash": "M1Ao392kvTNRvNTU6UGl2xm+h7E"
     }
